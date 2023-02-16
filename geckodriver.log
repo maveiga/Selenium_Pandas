@@ -1,0 +1,592 @@
+1676344328091	geckodriver	INFO	Listening on 127.0.0.1:55111
+1676344331176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55112" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofile4806SB"
+1676344331881	Marionette	INFO	Marionette enabled
+1676344331892	Marionette	INFO	Listening on port 55128
+Read port: 55128
+WebDriver BiDi listening on ws://127.0.0.1:55112
+1676344332081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofile4806SB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55112/devtools/browser/10609531-b960-4064-ac4b-6bf6e4531280
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/esgyv6u3k2cfhwm3z07pxtjqx, line 19180: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2k3uuyhfc0f9q9ztn01q4nva4, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/esgyv6u3k2cfhwm3z07pxtjqx, line 19180: unreachable code after return statement
+1676344486175	geckodriver	INFO	Listening on 127.0.0.1:55360
+1676344489233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileHfROsb"
+1676344489733	Marionette	INFO	Marionette enabled
+1676344489743	Marionette	INFO	Listening on port 55376
+Read port: 55376
+WebDriver BiDi listening on ws://127.0.0.1:55361
+1676344489913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileHfROsb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55361/devtools/browser/80ebff75-cd13-481a-8fcb-4ca4fdc7a437
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/esgyv6u3k2cfhwm3z07pxtjqx, line 19180: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2k3uuyhfc0f9q9ztn01q4nva4, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/esgyv6u3k2cfhwm3z07pxtjqx, line 19180: unreachable code after return statement
+[GFX1-]: shader-cache: Failed to write program binary: Espaço insuficiente no disco. (os error 112)
+[2023-02-14T03:15:02Z ERROR webrender_bindings::program_cache] shader-cache: Failed to write program binary: Espaço insuficiente no disco. (os error 112)
+JavaScript error: , line 0: uncaught exception: Object
+1676345017345	geckodriver	INFO	Listening on 127.0.0.1:57400
+1676345020422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileQgVtiT"
+1676345020899	Marionette	INFO	Marionette enabled
+1676345020909	Marionette	INFO	Listening on port 57425
+Read port: 57425
+WebDriver BiDi listening on ws://127.0.0.1:57401
+1676345021092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileQgVtiT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57401/devtools/browser/3bfadcfe-60d6-4fbd-be24-0c0864c403f6
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: Error: GoogleOneTapError display: unknown_reason
+Hit MOZ_CRASH([unhandlable oom] js::wasm::Init) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1290
+Hit MOZ_CRASH([unhandlable oom] js::wasm::Init) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1290
+out of memory: 0x00000000000001C0 bytes requested
+#01: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x472129a]
+#02: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1563c]
+#03: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x14fec]
+#04: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x11d73]
+#05: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x12ff5a2]
+#06: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x9feaaf]
+#07: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xe7d006]
+#08: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x12ffb66]
+#09: GetNtLoaderAPI[C:\Program Files\Mozilla Firefox\firefox.exe +0x1f114]
+#10: IsSandboxedProcess[C:\Program Files\Mozilla Firefox\firefox.exe +0x2d238]
+#11: ???[C:\WINDOWS\System32\KERNEL32.DLL +0x126bd]
+#12: ???[C:\WINDOWS\SYSTEM32\ntdll.dll +0x5dfb8]
+#01: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x472129a]
+#02: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1563c]
+#03: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x14fec]
+#04: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x11d73]
+#05: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x12ff5a2]
+#06: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x9feaaf]
+#07: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xe7d006]
+#08: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x12ffb66]
+#09: ???[C:\Program Files\Mozilla Firefox\firefox.exe +0x1f114]
+#10: ???[C:\Program Files\Mozilla Firefox\firefox.exe +0x2d238]
+#11: ???[C:\WINDOWS\System32\KERNEL32.DLL +0x126bd]
+#12: ???[C:\WINDOWS\SYSTEM32\ntdll.dll +0x5dfb8]
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1676345028862	Marionette	INFO	Stopped listening on port 57425
+[Parent 11196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 11196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 11196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1676345049519	geckodriver	INFO	Listening on 127.0.0.1:57513
+1676345052594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileVaxybS"
+1676345053073	Marionette	INFO	Marionette enabled
+1676345053080	Marionette	INFO	Listening on port 57535
+Read port: 57535
+WebDriver BiDi listening on ws://127.0.0.1:57514
+1676345053216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileVaxybS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57514/devtools/browser/0f77e1f9-32df-4846-b5a4-0d14baace2cd
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/esgyv6u3k2cfhwm3z07pxtjqx, line 19180: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2k3uuyhfc0f9q9ztn01q4nva4, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/esgyv6u3k2cfhwm3z07pxtjqx, line 19180: unreachable code after return statement
+1676345351997	geckodriver	INFO	Listening on 127.0.0.1:58237
+1676345355098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58238" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileBKJbE4"
+1676345355468	Marionette	INFO	Marionette enabled
+1676345355476	Marionette	INFO	Listening on port 58252
+Read port: 58252
+WebDriver BiDi listening on ws://127.0.0.1:58238
+1676345355609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileBKJbE4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58238/devtools/browser/f72cfeb3-2e0f-4fbd-8755-a42cd611ae00
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/esgyv6u3k2cfhwm3z07pxtjqx, line 19180: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2k3uuyhfc0f9q9ztn01q4nva4, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/esgyv6u3k2cfhwm3z07pxtjqx, line 19180: unreachable code after return statement
+1676345591617	geckodriver	INFO	Listening on 127.0.0.1:58598
+1676345594680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilevGnqSv"
+1676345595057	Marionette	INFO	Marionette enabled
+1676345595064	Marionette	INFO	Listening on port 58614
+Read port: 58614
+WebDriver BiDi listening on ws://127.0.0.1:58599
+1676345595206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilevGnqSv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58599/devtools/browser/f4ee4429-1ddb-4728-a926-9a9247eb432c
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/13ewivt5ik3a1y1yeimrv00zz, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/13ewivt5ik3a1y1yeimrv00zz, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1676345601187	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://static.licdn.com/sc/h/esgyv6u3k2cfhwm3z07pxtjqx, line 19180: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2k3uuyhfc0f9q9ztn01q4nva4, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/esgyv6u3k2cfhwm3z07pxtjqx, line 19180: unreachable code after return statement
+1676345634754	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1676418170945	geckodriver	INFO	Listening on 127.0.0.1:51762
+1676418174011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilebDfJW0"
+1676418174569	Marionette	INFO	Marionette enabled
+1676418174578	Marionette	INFO	Listening on port 51778
+Read port: 51778
+WebDriver BiDi listening on ws://127.0.0.1:51763
+1676418174758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilebDfJW0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51763/devtools/browser/47a14dbf-b024-4e10-a2fd-c10138c612d8
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676418203846	Marionette	INFO	Stopped listening on port 51778
+1676418299715	geckodriver	INFO	Listening on 127.0.0.1:51969
+1676418302789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51970" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofile75poCp"
+1676418303252	Marionette	INFO	Marionette enabled
+1676418303261	Marionette	INFO	Listening on port 51983
+Read port: 51983
+WebDriver BiDi listening on ws://127.0.0.1:51970
+1676418303442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofile75poCp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51970/devtools/browser/6b7ba168-5567-41eb-9055-52d203b717bd
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2q5jmmg4czhz76m7t3yxsbzy7, line 19182: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5v9u2zcyv8d6cz6nwiaqdegha, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2q5jmmg4czhz76m7t3yxsbzy7, line 19182: unreachable code after return statement
+1676418842177	geckodriver	INFO	Listening on 127.0.0.1:52973
+1676418845265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52974" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilei4AZS1"
+1676418846017	Marionette	INFO	Marionette enabled
+1676418846036	Marionette	INFO	Listening on port 52987
+Read port: 52987
+WebDriver BiDi listening on ws://127.0.0.1:52974
+1676418846340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilei4AZS1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52974/devtools/browser/0d50f9dd-9281-4f57-8c34-65e307b32b38
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676424721359	geckodriver	INFO	Listening on 127.0.0.1:60151
+1676424724420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60152" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilefHGeiK"
+1676424724836	Marionette	INFO	Marionette enabled
+1676424724843	Marionette	INFO	Listening on port 60164
+Read port: 60164
+WebDriver BiDi listening on ws://127.0.0.1:60152
+1676424724983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilefHGeiK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60152/devtools/browser/8cc288c0-c011-4ecc-9c85-134806c8c71b
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676424835014	geckodriver	INFO	Listening on 127.0.0.1:60351
+1676424838081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60352" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilelOUjCL"
+1676424838568	Marionette	INFO	Marionette enabled
+1676424838578	Marionette	INFO	Listening on port 60367
+Read port: 60367
+WebDriver BiDi listening on ws://127.0.0.1:60352
+1676424838756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilelOUjCL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60352/devtools/browser/652ce386-6e86-42bd-8834-61ad3d866cef
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+[Parent 25428, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676424951532	Marionette	INFO	Stopped listening on port 60367
+1676425093995	geckodriver	INFO	Listening on 127.0.0.1:60775
+1676425097041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileMSrsxa"
+1676425097538	Marionette	INFO	Marionette enabled
+1676425097545	Marionette	INFO	Listening on port 60788
+Read port: 60788
+WebDriver BiDi listening on ws://127.0.0.1:60776
+1676425097738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileMSrsxa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60776/devtools/browser/a84fdf8d-d6e0-477c-b71e-b1e3af451b17
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676425301876	geckodriver	INFO	Listening on 127.0.0.1:61065
+1676425304946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61066" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofiletRcKSk"
+1676425305432	Marionette	INFO	Marionette enabled
+1676425305441	Marionette	INFO	Listening on port 61078
+Read port: 61078
+WebDriver BiDi listening on ws://127.0.0.1:61066
+1676425305626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofiletRcKSk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61066/devtools/browser/d70af278-7e49-4241-ac82-d55877fc0e08
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676425319245	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1676425481740	Marionette	INFO	Stopped listening on port 61078
+6425474305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilekq15GC"
+1676425475129	Marionette	INFO	Marionette enabled
+1676425475144	Marionette	INFO	Listening on port 61399
+Read port: 61399
+WebDriver BiDi listening on ws://127.0.0.1:61359
+1676425475378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilekq15GC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61359/devtools/browser/5cbd1104-f972-4f23-901a-0257ec71a041
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676425483225	Marionette	INFO	Stopped listening on port 61399
+1676425520277	geckodriver	INFO	Listening on 127.0.0.1:61515
+1676425523338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61516" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilemX6OQt"
+1676425523849	Marionette	INFO	Marionette enabled
+1676425523860	Marionette	INFO	Listening on port 61532
+Read port: 61532
+WebDriver BiDi listening on ws://127.0.0.1:61516
+1676425524055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilemX6OQt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61516/devtools/browser/7b3473f1-ee01-47f5-9f0c-256b8886e510
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/an4mi366mfdfxe7c6iwcr2xl0, line 82: GraphQLQueryError: GraphQL request failed for query voyagerSearchDashClusters.bb5a1d2ce8d7d2a1277f9f2664ec15c0. The 'errors' property of the error contains more details regarding the exact problem.
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676426701585	Marionette	INFO	Stopped listening on port 61532
+1676427374702	geckodriver	INFO	Listening on 127.0.0.1:64340
+1676427377701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileyWhjd1"
+1676427378298	Marionette	INFO	Marionette enabled
+1676427378309	Marionette	INFO	Listening on port 64367
+Read port: 64367
+WebDriver BiDi listening on ws://127.0.0.1:64341
+1676427378556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileyWhjd1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64341/devtools/browser/aa61e97b-45c0-4c85-9d22-a7cd65312cf2
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676427533294	Marionette	INFO	Stopped listening on port 64367
+1676427844162	geckodriver	INFO	Listening on 127.0.0.1:64695
+1676427847214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64696" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileXE32aq"
+1676427847639	Marionette	INFO	Marionette enabled
+1676427847648	Marionette	INFO	Listening on port 64708
+Read port: 64708
+WebDriver BiDi listening on ws://127.0.0.1:64696
+1676427847839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileXE32aq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64696/devtools/browser/81eede5c-bcad-48e7-8294-42ae73b1d55a
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+[Parent 29124, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676428350589	geckodriver	INFO	Listening on 127.0.0.1:65064
+1676428353638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofile5UK9nI"
+1676428354205	Marionette	INFO	Marionette enabled
+1676428354220	Marionette	INFO	Listening on port 65090
+Read port: 65090
+WebDriver BiDi listening on ws://127.0.0.1:65065
+1676428354485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofile5UK9nI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65065/devtools/browser/61a7911c-061c-4580-b158-e619f5b02418
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676428402007	Marionette	INFO	Stopped listening on port 65090
+1676428675028	geckodriver	INFO	Listening on 127.0.0.1:65380
+1676428678121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilenYmTsB"
+1676428678544	Marionette	INFO	Marionette enabled
+1676428678552	Marionette	INFO	Listening on port 65393
+Read port: 65393
+WebDriver BiDi listening on ws://127.0.0.1:65381
+1676428678684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilenYmTsB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65381/devtools/browser/71ed5b09-e166-4b44-bbee-30564937b06e
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676428757094	geckodriver	INFO	Listening on 127.0.0.1:65475
+1676428760177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65476" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileAmJv31"
+1676428760651	Marionette	INFO	Marionette enabled
+1676428760661	Marionette	INFO	Listening on port 65488
+Read port: 65488
+WebDriver BiDi listening on ws://127.0.0.1:65476
+1676428760842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileAmJv31\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65476/devtools/browser/a6a2408a-fe2f-4ef5-8218-c9f334e7aede
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676428936978	Marionette	INFO	Stopped listening on port 65488
+6428883964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilenqppxw"
+1676428884416	Marionette	INFO	Marionette enabled
+1676428884426	Marionette	INFO	Listening on port 49215
+Read port: 49215
+WebDriver BiDi listening on ws://127.0.0.1:49202
+1676428884605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilenqppxw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49202/devtools/browser/dad4ce5e-e006-43d7-96a4-5235aa1aaca1
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676428938653	Marionette	INFO	Stopped listening on port 49215
+1676428980475	geckodriver	INFO	Listening on 127.0.0.1:49322
+1676428983562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49323" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilesAETNn"
+1676428984037	Marionette	INFO	Marionette enabled
+1676428984047	Marionette	INFO	Listening on port 49339
+Read port: 49339
+WebDriver BiDi listening on ws://127.0.0.1:49323
+1676428984226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilesAETNn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49323/devtools/browser/fcef41db-5278-4c81-8619-b82379d11c35
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676429362246	geckodriver	INFO	Listening on 127.0.0.1:49553
+1676429365302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileOrIx0j"
+1676429365759	Marionette	INFO	Marionette enabled
+1676429365768	Marionette	INFO	Listening on port 49568
+Read port: 49568
+WebDriver BiDi listening on ws://127.0.0.1:49554
+1676429365940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileOrIx0j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49554/devtools/browser/120c10dc-bff3-4f72-a14f-91154a0dad5d
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676429483736	Marionette	INFO	Stopped listening on port 49568
+1676429575858	geckodriver	INFO	Listening on 127.0.0.1:50268
+1676429578948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileyM8MZj"
+1676429579420	Marionette	INFO	Marionette enabled
+1676429579429	Marionette	INFO	Listening on port 50284
+Read port: 50284
+WebDriver BiDi listening on ws://127.0.0.1:50269
+1676429579604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileyM8MZj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50269/devtools/browser/c996cf28-7b2e-435b-aea6-4109aec34a54
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676429701638	geckodriver	INFO	Listening on 127.0.0.1:50515
+1676429704698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50516" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofile7WRtRH"
+1676429705125	Marionette	INFO	Marionette enabled
+1676429705132	Marionette	INFO	Listening on port 50530
+Read port: 50530
+WebDriver BiDi listening on ws://127.0.0.1:50516
+1676429705265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofile7WRtRH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50516/devtools/browser/c3922e97-d996-44b8-b264-b11df0bb5119
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676430890623	Marionette	INFO	Stopped listening on port 50530
+6429793189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50696" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileqrfRO4"
+1676429793551	Marionette	INFO	Marionette enabled
+1676429793559	Marionette	INFO	Listening on port 50706
+Read port: 50706
+WebDriver BiDi listening on ws://127.0.0.1:50696
+1676429793709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileqrfRO4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50696/devtools/browser/655d6502-957c-4611-bee5-d664ae6bc33e
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676430892022	Marionette	INFO	Stopped listening on port 50706
+6430643721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofile2FdPpM"
+1676430644078	Marionette	INFO	Marionette enabled
+1676430644087	Marionette	INFO	Listening on port 51203
+Read port: 51203
+WebDriver BiDi listening on ws://127.0.0.1:51187
+1676430644220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofile2FdPpM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51187/devtools/browser/2e3bc8d1-6fe7-43b2-ab0f-6572c5eadb6e
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676430893282	Marionette	INFO	Stopped listening on port 51203
+6430795594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51528" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileH8PV3d"
+1676430795959	Marionette	INFO	Marionette enabled
+1676430795966	Marionette	INFO	Listening on port 51542
+Read port: 51542
+WebDriver BiDi listening on ws://127.0.0.1:51528
+1676430796101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileH8PV3d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51528/devtools/browser/5070984e-bd0d-49fc-83ae-ac32355a6bc4
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676430894811	Marionette	INFO	Stopped listening on port 51542
+1676430899113	geckodriver	INFO	Listening on 127.0.0.1:51723
+1676430902184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileRqEWrn"
+1676430902561	Marionette	INFO	Marionette enabled
+1676430902569	Marionette	INFO	Listening on port 51735
+Read port: 51735
+WebDriver BiDi listening on ws://127.0.0.1:51724
+1676430902724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileRqEWrn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51724/devtools/browser/b9c817fc-7826-4cae-9a5e-1d2e1eba0791
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/dmsr4sj5hcfxsmwx605ihtraq, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/td4gems8dis7rlq0dcpsw1on, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/2ujip87m5uo7nrsqep7jqcwlg, line 19169: unreachable code after return statement
+1676476704878	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\mateu\AppData\Local\Temp\rust_mozprofileRqEWrn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\mateu\AppData\Local\Temp\rust_mozprofileRqEWrn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\mateu\AppData\Local\Temp\rust_mozprofileRqEWrn\thumbnails) because it does not exist
+\mateu\\AppData\\Local\\Temp\\rust_mozprofile8oNKoR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52641/devtools/browser/31054ec6-43cb-46ae-8251-5bba77ba8a42
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/8oqgonqs92ylom0ismv5ahfkw, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3sz4i5tff216a83w3lzj26b1n, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8oqgonqs92ylom0ismv5ahfkw, line 19169: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\mateu\AppData\Local\Temp\rust_mozprofile8oNKoR\bookmarkbackups\bookmarks-2023-02-15.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\mateu\AppData\Local\Temp\rust_mozprofile8oNKoR\bookmarkbackups\bookmarks-2023-02-15.jsonlz4) because it does not exist
+1676476779174	geckodriver	INFO	Listening on 127.0.0.1:53548
+1676476782252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilezxWB1D"
+1676476782708	Marionette	INFO	Marionette enabled
+1676476782716	Marionette	INFO	Listening on port 53572
+Read port: 53572
+WebDriver BiDi listening on ws://127.0.0.1:53549
+1676476782867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilezxWB1D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53549/devtools/browser/417cc50a-eca1-48b3-9b65-9948b8176216
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/8oqgonqs92ylom0ismv5ahfkw, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3sz4i5tff216a83w3lzj26b1n, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8oqgonqs92ylom0ismv5ahfkw, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8oqgonqs92ylom0ismv5ahfkw, line 19169: unreachable code after return statement
+es\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54014" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilePqqGsb"
+1676476900199	Marionette	INFO	Marionette enabled
+1676476900206	Marionette	INFO	Listening on port 54031
+Read port: 54031
+WebDriver BiDi listening on ws://127.0.0.1:54014
+1676476900339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofilePqqGsb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54014/devtools/browser/eb2c797d-0746-4061-9956-4992199f7872
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1676477301190	Marionette	INFO	Stopped listening on port 54031
+1676477323759	geckodriver	INFO	Listening on 127.0.0.1:54708
+1676477326810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileRblJ5D"
+1676477327410	Marionette	INFO	Marionette enabled
+1676477327420	Marionette	INFO	Listening on port 54719
+Read port: 54719
+WebDriver BiDi listening on ws://127.0.0.1:54709
+1676477327613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileRblJ5D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54709/devtools/browser/b42693b0-4832-478f-a8d5-2ad7d8a0ad8f
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/8oqgonqs92ylom0ismv5ahfkw, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3sz4i5tff216a83w3lzj26b1n, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8oqgonqs92ylom0ismv5ahfkw, line 19169: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\mateu\AppData\Local\Temp\rust_mozprofileRblJ5D\bookmarkbackups\bookmarks-2023-02-15.jsonlz4) because it does not exist
+1676485657253	geckodriver	INFO	Listening on 127.0.0.1:58656
+1676485660325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileX4HtJp"
+1676485660854	Marionette	INFO	Marionette enabled
+1676485660865	Marionette	INFO	Listening on port 58674
+Read port: 58674
+WebDriver BiDi listening on ws://127.0.0.1:58657
+1676485661060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mateu\\AppData\\Local\\Temp\\rust_mozprofileX4HtJp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58657/devtools/browser/72fdc94b-b941-42d2-8898-1ae7bdda5142
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/18hlkcut3icw93gyjszhrt890, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/d2kkd1h42j7phembyzuxpc4ft, line 19169: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7zvpa154oebbxs5kp2pgsp21, line 2663: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/d2kkd1h42j7phembyzuxpc4ft, line 19169: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\mateu\AppData\Local\Temp\rust_mozprofileX4HtJp\bookmarkbackups\bookmarks-2023-02-15.jsonlz4) because it does not exist
